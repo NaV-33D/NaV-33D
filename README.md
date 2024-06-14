@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Internships..
 - 📫 How to reach me naveedsayed88@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I like icream
+- ⚡ Fun fact: I like icecream
 
 <!---
 NaV-33D/NaV-33D is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
