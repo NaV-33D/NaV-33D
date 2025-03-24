@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on Internships..
 - 📫 How to reach me naveedsayed88@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I like icecream
+- ⚡ Fun fact: I like IceCream
 
 <!---
 NaV-33D/NaV-33D is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
